@@ -33,3 +33,14 @@
         margin-left: 0%;
     }
 }
+@media  screen and (max-width: 100%){
+    .filme-principal{
+        width: 300px;
+        }    
+}
+
+@media screen and (max-width: 400px){
+    .filme-principal{
+        background-size: 500px 800px;
+    }
+}

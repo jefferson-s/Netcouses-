@@ -48,7 +48,7 @@ header nav a:hover{
     background: linear-gradient(rgba(0,0,0, .50),rgba(0,0,0, .50)100%), url("/img/capa-fotografia.png");
     /*Linear-gradiente coloca uma caixa escura para melhorar a leitura do texto*/
     /*adicionando imagem de fundo na caixa*/
-    height: 500px;
+    height: 800px;
     /*aumentando o tamanho da caixa*/
     background-size: cover;
     /*Redimensionando a imagem dentro da caixa*/
